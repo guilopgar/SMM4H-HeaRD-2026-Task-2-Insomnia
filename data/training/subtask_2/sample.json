@@ -1,0 +1,218 @@
+{
+    "10163": {
+        "Definition 1": {
+            "label": "yes",
+            "span": [
+                "3000 3008",
+                "13618 13626"
+            ]
+        },
+        "Definition 2": {
+            "label": "yes",
+            "span": [
+                "3000 3008",
+                "13618 13626"
+            ]
+        },
+        "Rule B": {
+            "label": "yes",
+            "span": [
+                "576 584",
+                "12933 12939",
+                "13531 13539"
+            ]
+        },
+        "Rule C": {
+            "label": "yes",
+            "span": [
+                "733 742"
+            ]
+        }
+    },
+    "10997": {
+        "Definition 1": {
+            "label": "no",
+            "span": []
+        },
+        "Definition 2": {
+            "label": "no",
+            "span": []
+        },
+        "Rule B": {
+            "label": "no",
+            "span": []
+        },
+        "Rule C": {
+            "label": "no",
+            "span": []
+        }
+    },
+    "11339": {
+        "Definition 1": {
+            "label": "no",
+            "span": []
+        },
+        "Definition 2": {
+            "label": "no",
+            "span": []
+        },
+        "Rule B": {
+            "label": "no",
+            "span": []
+        },
+        "Rule C": {
+            "label": "no",
+            "span": []
+        }
+    },
+    "11357": {
+        "Definition 1": {
+            "label": "no",
+            "span": []
+        },
+        "Definition 2": {
+            "label": "no",
+            "span": []
+        },
+        "Rule B": {
+            "label": "no",
+            "span": []
+        },
+        "Rule C": {
+            "label": "no",
+            "span": []
+        }
+    },
+    "11834": {
+        "Definition 1": {
+            "label": "no",
+            "span": []
+        },
+        "Definition 2": {
+            "label": "no",
+            "span": []
+        },
+        "Rule B": {
+            "label": "no",
+            "span": []
+        },
+        "Rule C": {
+            "label": "no",
+            "span": []
+        }
+    },
+    "12167": {
+        "Definition 1": {
+            "label": "yes",
+            "span": [
+                "11565 11573"
+            ]
+        },
+        "Definition 2": {
+            "label": "yes",
+            "span": [
+                "11565 11573"
+            ]
+        },
+        "Rule B": {
+            "label": "yes",
+            "span": [
+                "716 724",
+                "11491 11499"
+            ]
+        },
+        "Rule C": {
+            "label": "yes",
+            "span": [
+                "181 196",
+                "208 217",
+                "376 391",
+                "12957 12966"
+            ]
+        }
+    },
+    "12315": {
+        "Definition 1": {
+            "label": "no",
+            "span": []
+        },
+        "Definition 2": {
+            "label": "no",
+            "span": []
+        },
+        "Rule B": {
+            "label": "no",
+            "span": []
+        },
+        "Rule C": {
+            "label": "no",
+            "span": []
+        }
+    },
+    "12358": {
+        "Definition 1": {
+            "label": "no",
+            "span": []
+        },
+        "Definition 2": {
+            "label": "no",
+            "span": []
+        },
+        "Rule B": {
+            "label": "no",
+            "span": []
+        },
+        "Rule C": {
+            "label": "no",
+            "span": []
+        }
+    },
+    "1260815": {
+        "Definition 1": {
+            "label": "yes",
+            "span": [
+                "440 464"
+            ]
+        },
+        "Definition 2": {
+            "label": "no",
+            "span": []
+        },
+        "Rule B": {
+            "label": "yes",
+            "span": [
+                "160 166",
+                "577 583"
+            ]
+        },
+        "Rule C": {
+            "label": "yes",
+            "span": [
+                "174 182",
+                "561 569"
+            ]
+        }
+    },
+    "1260817": {
+        "Definition 1": {
+            "label": "yes",
+            "span": [
+                "830 855"
+            ]
+        },
+        "Definition 2": {
+            "label": "yes",
+            "span": [
+                "296 347"
+            ]
+        },
+        "Rule B": {
+            "label": "no",
+            "span": []
+        },
+        "Rule C": {
+            "label": "no",
+            "span": []
+        }
+    }
+}
